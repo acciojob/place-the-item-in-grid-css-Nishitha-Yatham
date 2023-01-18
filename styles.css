@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.holder{
+	height:100px;
+	width:100px;
+	display:grid;
+	gird-template-columns: 50px 50px;
+	grid-template-columns: 50px 50px;
+	border:1px solid black
+}
