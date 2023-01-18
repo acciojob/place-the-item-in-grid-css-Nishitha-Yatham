@@ -4,7 +4,7 @@
 	height:100px;
 	width:100px;
 	display:grid;
-	gird-template-columns: repeat(2,50px);
+	gird-template-rows: repeat(2,50px);
 	grid-template-columns: repeat(2,50px);
 	border:1px solid black
 }
