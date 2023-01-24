@@ -1,10 +1,8 @@
 
 /* Your CSS Code here. */
 .holder{
-	height:100px;
-	width:100px;
 	display:grid;
-	gird-template-rows: repeat(2,50px);
-	grid-template-columns: repeat(2,50px);
+	gird-template-rows: repeat(2,100px);
+	grid-template-columns: repeat(2,100px);
 	border:1px solid black
 }
